@@ -1,16 +1,16 @@
 # medico
 
-A new Flutter project.
+ I'm excited to unveil my latest Flutter project that aims to revolutionize healthcare data collection - Medico: The Online Consultation Form App! 🚀
 
-## Getting Started
+Project Description:
+Medico is a user-friendly Form application built entirely with Flutter and enriched with powerful pub.dev packages. With its user-friendly interface, Medico simplifies the process of gathering patient data for online consultations.
 
-This project is a starting point for a Flutter application.
+Key Features:
+__🎯 Engaging Splash Screen
+__📱Customized App Icon
+__🌈 Attractive UI and Colors
+__🔒 Privacy and Security
 
-A few resources to get you started if this is your first Flutter project:
+mudasirahmad0311@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.linkedin.com/in/mudasirahmadkhan/
